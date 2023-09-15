@@ -20,7 +20,7 @@ After my time in the Navy, I worked as an automation engineer for various govern
 
 That initiative became [oc-mirror](https://github.com/openshift/oc-mirror), of which my contribution was in the design of its [state machine](https://github.com/openshift/oc-mirror/blob/49e9280e5b813d160e593e17765265f819db5e9d/docs/design/overview.md?plain=1#L16C3-L16C4). Notably, oc-mirror manages the state of a container image registry (to include delete operations) that it can never see.
 
-During oc-mirror development, I set out to address the issue of managing non-OCI software artifacts that were frequently referenced as part of OpenShift/Kubernetes Operator dependencies. This is when I created Universal Object Reference (UOR), a content .
+During oc-mirror development, I set out to address the issue of managing non-OCI software artifacts that were frequently referenced as part of OpenShift/Kubernetes Operator dependencies. This is when I created Universal Object Reference (UOR), which establishes resource management in a data defined system.
 
 I now work at [Red Hat](https://www.redhat.com/en) as a Prodsec Engineer, where I focus on Continuous Compliance data engineering, automation, and tooling development.
 
