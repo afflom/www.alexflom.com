@@ -10,7 +10,7 @@ favicon = "favicons/"
 customCss = []
 # example ["js/custom.js"]
 customJs = [] 
-mainSections = ["post"]
+mainSections = []
 images = ["images/"]
 doNotLoadAnimations = false
 # Form Spree Contact Form
@@ -26,7 +26,7 @@ listDateFormat = "2/1/2006"
 # Commento Comments
 # CommentoURL = "https://commento.example.com/js/commento.js"
 # Read More links for truncated summaries
-#readMore = true
+readMore = false
 # postSectionName = "blog"
 #relatedPosts = true
 # numberOfRelatedPosts = 3
