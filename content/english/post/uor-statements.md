@@ -6,7 +6,7 @@ date = "2023-09-25"
 draft = false
 +++
 
-## Forward
+## Preface
 
 I've found it both helpful and distracting to discuss UOR in terms of metaphysics. It is important to understand the metaphysics of UOR in order to understand the implications of implementing UOR. However, it is not necessary to understand the metaphysics of UOR to understand how to use UOR. 
 
