@@ -18,7 +18,7 @@ This is my personal blog where I write about various aspects of technology.
 
 - Information Systems Metaphysics
 - Data Engineering
-- Regulatory Compliance
+- Governance, Risk Management, and Compliance (GRC)
 
 
 ## Technologies
