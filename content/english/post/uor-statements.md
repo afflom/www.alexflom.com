@@ -51,7 +51,7 @@ The resource field contains the actual data or information of the element. Optio
 ```
 The UOR Statement is a semantic triple that links UOR Elements together, establishing relationships and context within the UOR system. It consists of a subject, predicate, and object, each of which is a UOR Element. The schemaVersion and resType provide metadata about the statement. This structure enables the representation of complex relationships and interactions between different data elements.
 
-### UOR Statement Extensions
+### UOR Element Extensions
 ```
 {
     "schemaVersion": 1,
