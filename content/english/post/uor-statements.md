@@ -240,7 +240,6 @@ Once the existing JSON formatted content is converted, we progress to converting
 
 Finally, use an LLM as a natural language interface to to UOR knowledge graph. The LLM response should be a UOR Statement that is written to the UOR formatted knowledge graph. This continues to build the context of the UOR knowledge graph and is the easiest way to author UOR formatted content. 
 
-
 ## Conclusion
 
 I hope that you've enjoyed this introduction to UOR concepts and ways that UOR can be used. I'm excited to share more of UOR with you in subsequent posts. Please feel free to reach out to me with any questions or comments.
