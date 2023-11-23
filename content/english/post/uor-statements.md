@@ -8,7 +8,7 @@ draft = false
 
 ## Preface
 
-I've found it both helpful and distracting to discuss UOR in terms of metaphysics. It is important to understand the metaphysics of UOR in order to understand the implications of implementing UOR. However, it is not necessary to understand the metaphysics of UOR to understand how to use UOR. 
+I've found it both helpful and distracting to discuss Universal Object Reference (UOR) in terms of metaphysics. It is important to understand the metaphysics of UOR in order to understand the implications of implementing UOR. However, it is not necessary to understand the metaphysics of UOR to understand how to use UOR. 
 
 The implications of implementing UOR are profound, because it is based on the fundamental concepts of our reality. What you will find, is that UOR can theoretically be used to model the entire universe and reality itself. 
 
@@ -102,7 +102,7 @@ UOR Elements are Objects in the Object Oriented Programming sense. They are disc
 
 UOR type definitions are referenced by the resourceType and locatorType fields of UOR Elements. These type definitions are used to describe the data structure of their corresponding resource and location fields of UOR Elements. They are also used to identify the methods that can be used to interact with the UOR Element.
 
-The methods on a locatorType are used to interact with the location field of a UOR Element. These methods define how a client would perform CRUD operations on a UOR Element's resource.
+The methods on a locatorType are used to interact with the location field of a UOR Element. These methods define how a client would perform CRUD (Create, Read, Update, Delete) operations on a UOR Element's resource.
 
 And similarly; the methods on a resourceType are used to interact with the resource field of a UOR Element. These methods define how a client would interact with resource defined in the UOR Element.
 
@@ -188,7 +188,7 @@ The goal, if there is such a thing, in a UOR system is to build as much context 
 
 Once the existing JSON formatted content is converted, then start converting non-JSON native content to UOR Statements. This requires defining a JSON Schema for the content and then writing an ingester that converts the content to UOR Statements.
 
-Use an LLM to interact with the UOR knowledge graph. The LLM response should be a UOR Statement that is written to the UOR formatted knowledge graph. This continues to build the context of the UOR knowledge graph and is the easiest way to author UOR formatted content. 
+Use an LLM to interact with the UOR knowledge graph. The LLM (Large Language Model) response should be a UOR Statement that is written to the UOR formatted knowledge graph. This continues to build the context of the UOR knowledge graph and is the easiest way to author UOR formatted content. 
 
 ## Conclusion
 
